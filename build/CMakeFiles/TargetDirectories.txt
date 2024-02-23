@@ -1,0 +1,17 @@
+/home/planders/repos/clang_copy_finder/build/CMakeFiles/edit_cache.dir
+/home/planders/repos/clang_copy_finder/build/CMakeFiles/rebuild_cache.dir
+/home/planders/repos/clang_copy_finder/build/CMakeFiles/list_install_components.dir
+/home/planders/repos/clang_copy_finder/build/CMakeFiles/install.dir
+/home/planders/repos/clang_copy_finder/build/CMakeFiles/install/local.dir
+/home/planders/repos/clang_copy_finder/build/CMakeFiles/install/strip.dir
+/home/planders/repos/clang_copy_finder/build/src/CMakeFiles/intrinsics_gen.dir
+/home/planders/repos/clang_copy_finder/build/src/CMakeFiles/omp_gen.dir
+/home/planders/repos/clang_copy_finder/build/src/CMakeFiles/acc_gen.dir
+/home/planders/repos/clang_copy_finder/build/src/CMakeFiles/clang-tablegen-targets.dir
+/home/planders/repos/clang_copy_finder/build/src/CMakeFiles/clang-copy-finder.dir
+/home/planders/repos/clang_copy_finder/build/src/CMakeFiles/edit_cache.dir
+/home/planders/repos/clang_copy_finder/build/src/CMakeFiles/rebuild_cache.dir
+/home/planders/repos/clang_copy_finder/build/src/CMakeFiles/list_install_components.dir
+/home/planders/repos/clang_copy_finder/build/src/CMakeFiles/install.dir
+/home/planders/repos/clang_copy_finder/build/src/CMakeFiles/install/local.dir
+/home/planders/repos/clang_copy_finder/build/src/CMakeFiles/install/strip.dir

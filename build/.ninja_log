@@ -1,0 +1,8 @@
+# ninja log v5
+0	1716	1708652675978788255	src/CMakeFiles/clang-copy-finder.dir/CopyFinder.cpp.o	597c4ea34b368949
+3609	4741	1708661411456613503	src/clang-copy-finder	5a993150c8fdce0
+1	3608	1708661410306613840	src/CMakeFiles/clang-copy-finder.dir/copyFinder.cpp.o	ef9237f697be3f8
+1	27	0	CMakeFiles/install.util	f60e42076731515a
+0	3609	1708661517086586300	src/CMakeFiles/clang-copy-finder.dir/copyFinder.cpp.o	ef9237f697be3f8
+3609	4738	1708661518236586028	src/clang-copy-finder	5a993150c8fdce0
+1	27	0	CMakeFiles/install.util	f60e42076731515a

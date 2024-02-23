@@ -1,0 +1,7 @@
+/home/planders/repos/clang_copy_finder/test_program/CMakeFiles/test-program.dir
+/home/planders/repos/clang_copy_finder/test_program/CMakeFiles/edit_cache.dir
+/home/planders/repos/clang_copy_finder/test_program/CMakeFiles/rebuild_cache.dir
+/home/planders/repos/clang_copy_finder/test_program/CMakeFiles/list_install_components.dir
+/home/planders/repos/clang_copy_finder/test_program/CMakeFiles/install.dir
+/home/planders/repos/clang_copy_finder/test_program/CMakeFiles/install/local.dir
+/home/planders/repos/clang_copy_finder/test_program/CMakeFiles/install/strip.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/planders/repos/clang_copy_finder/test_program",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/test-program.dir/main.cpp.o -c /home/planders/repos/clang_copy_finder/test_program/main.cpp",
+  "file": "/home/planders/repos/clang_copy_finder/test_program/main.cpp"
+}
+]

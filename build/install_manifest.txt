@@ -1,0 +1,1 @@
+/home/planders/repos/clang_copy_finder/build/install/bin/clang-copy-finder
